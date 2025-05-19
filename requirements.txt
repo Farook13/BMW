@@ -1,7 +1,7 @@
 pyrogram
 TgCrypto
 pyromod==1.5
-pymongo
+pymongo==4.3.3         # FIX: compatible with motor 3.1.2
 motor==3.1.2
 dnspython==2.3.0
 hachoir==3.2.0
